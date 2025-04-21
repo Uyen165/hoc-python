@@ -1,0 +1,2 @@
+user_said=input("Mời bạn nhập lời nói: ")
+print("Chat bot: " + user_said)
